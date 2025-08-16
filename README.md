@@ -1,2 +1,2 @@
-# Tenda-Admin-Panel-Page
+# Tenda Admin Panel
 Tenda Admin Panel Login Page Code
